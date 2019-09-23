@@ -1,7 +1,3 @@
-import sys
-print(sys.path)
-from introtodeeplearning_labs_python3.lab1 import *
-from introtodeeplearning_labs_python3.lab2 import *
 # from lab3 import *
 
 
